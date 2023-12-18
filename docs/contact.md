@@ -1,12 +1,12 @@
 ---
-title: Contact title page
+title: Contact
 description: Description of the contact page
 ---
 
 # Contact Me
 
 If you want to get ahold of me, shoot me a text or feel free to email as well!
-![posterImage](/images/)
+![posterImage](/images/Headshot.jpg)
 
 ## Connect with Me
 

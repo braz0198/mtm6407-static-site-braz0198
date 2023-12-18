@@ -2,7 +2,7 @@
   "devDependencies": {
     "vuepress": "^2.0.0-rc.0"
   },
-"scripts": {
+  "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   }

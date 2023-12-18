@@ -1,8 +1,8 @@
-import { defineClientConfig } from "@vuepress/client";
-import CustomLayout from "./layouts/CustomLayout.vue";
+import { defineClientConfig } from '@vuepress/client'
+import CustomLayout from 'docs/vuepress/vuepress/layouts/CustomLayout.vue'
 
 export default defineClientConfig({
   layouts: {
     CustomLayout,
   },
-});
+})

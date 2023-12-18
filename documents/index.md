@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Hi, Welcome to my Static Site
-heroImage: "/images/Headshot"
+heroImage: "/images/Headshot.jpg"
 tagline: This is my assignment for my Web Development 4 class it's a static site generator using vueexpress and markdown files to produce what you see here!
 actions:
   - text: About me
